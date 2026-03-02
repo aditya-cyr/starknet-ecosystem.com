@@ -15,9 +15,9 @@
   shortName: "Cypherock",
   description: "Cypherock X1 is the World's safest hardware wallet with non-custodial inheritance, audited by Keylabs",
   tags: ["wallet"],           // use existing tags from data/tag.ts
-  image: "your-logo.png",  // filename in public/logos/
+  image: "cypherock.png",  // filename in public/logos/
   network: {
-    website: "https://yourproject.com",
+    website: "https://www.cypherock.com/",
     github: "https://github.com/cypherock",
     twitter: "https://x.com/CypherockWallet",
     medium: "",
@@ -37,7 +37,7 @@
 yarn lint
 ```
 
-6. **Create a Pull Request** with the title: `✨ Introducing YourProjectName`
+6. **Create a Pull Request** with the title: `✨ Introducing Cypherock`
 
 Your project will go live automatically once the PR is merged.
 
